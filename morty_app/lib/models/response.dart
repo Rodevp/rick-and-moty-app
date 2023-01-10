@@ -1,7 +1,7 @@
 import 'package:morty_app/models/character.dart';
 
-class Response {
-  Response({
+class ResponseCharacters {
+  ResponseCharacters({
     this.results,
     this.info
   });
